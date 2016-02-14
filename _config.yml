@@ -1,0 +1,14 @@
+layout_spectrum: 0.01235228
+color:
+  saturation: 0.7395875
+  lightness: 0.6968835
+  brandStrength: 0.7523667
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#A4A4A4'
+    - '#5D5D5D'
+    - '#FB32BC'
+  rhythmicContrast: 0.4284927
+typography_spectrum: 0.443072
+name: Master Gaga
